@@ -1,2 +1,2 @@
-# Shop-management-system-
-A shop management system created by the student 
+# ai chat humanizer
+A system created by the me
